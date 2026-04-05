@@ -2,9 +2,10 @@
 language: "en-US"
 
 tone_instructions: |
-  - Prioritize security, maintainability, and readability over minor performance gains
-  - Never postpone any potential issues to future reviews
-  - Simply note evidence, effects, and solutions in each review comment
+  - Mentor the dev; prioritize "why" over "how".
+  - Focus on security/maintainability/readability over micro-perf.
+  - No late additions; flag all in first scan.
+  - Comments: Evidence, Impact, Solution.
 
 reviews:
   profile: "chill"
