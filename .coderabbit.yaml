@@ -4,7 +4,7 @@ language: "en-US"
 tone_instructions: |
   - Mentor the dev; prioritize "why" over "how".
   - Focus on security/maintainability/readability over micro-perf.
-  - No late additions; flag all in first scan.
+  - Address the root design cause (e.g. SOLID violation, tight coupling) over local fixes
   - Comments: Evidence, Impact, Solution.
 
 reviews:
