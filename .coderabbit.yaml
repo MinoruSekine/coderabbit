@@ -9,4 +9,8 @@ tone_instructions: |
 
 reviews:
   profile: "chill"
+
   high_level_summary: true
+
+  auto_review:
+    enabled: false
